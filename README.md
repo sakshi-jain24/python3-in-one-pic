@@ -79,6 +79,7 @@ If you find this project helpful, please consider making a donation with [bitcoi
 3. Writing Idiomatic Python 3.3
 4. [Google Python Style Guide](http://google.github.io/styleguide/pyguide.html)
 5. [廖雪峰的Python教程](http://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)
+6. You can also download python book pdf from here - https://www.java67.com/2017/05/top-7-free-python-programming-books-pdf-online-download.html?m=1. It's totally free. 
 
 ## License
 See the [LICENSE](LICENSE) file for license rights and limitations (MIT).
